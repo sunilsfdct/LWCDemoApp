@@ -1,0 +1,5 @@
+1) Create Rep
+2) Crete folder -> Create Folder with App name
+3) Create a file -> 
+4) Install Git-SCM
+5)
